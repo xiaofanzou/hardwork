@@ -13,3 +13,4 @@ class Index
         return 'hello,' . $name;
     }
 }
+echo "who are you?";
