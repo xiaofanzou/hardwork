@@ -13,4 +13,4 @@ class Car {
     }
 }
 $car= new Car();
-$car->getName;
+echo $car->getName();
